@@ -1,14 +1,15 @@
 # Table of contents
 1. [Introduction](#introduction)
 2. [Pyspark](#pyspark)
-    1. [Basic PySpark operations](#pyspark1)
+   1. [Basic PySpark operations](#pyspark1)
 3. [python](#python)
 4. [SQL](#sql)
 5. [Markdown](#markdown)
-    1. [Basic Formatting](#markdownsub1)
-    2. [Creating Diagrams](#markdownsub2)
-    3. [Highlighting Syntax](#markdownsub3)
-    4. [Creating Sections](#markdownsub4)
+   1. [Basic Formatting](#markdownsub1)
+   2. [Creating Diagrams](#markdownsub2)
+   3. [Highlighting Syntax](#markdownsub3)
+   4. [Creating Sections](#markdownsub4)
+   5. [Emojis](#markdownsub5)
 
 ## Coding Resources sorted by coding language <a name="introduction"></a>
 
