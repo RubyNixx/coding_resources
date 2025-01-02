@@ -14,7 +14,7 @@
 
 Range of cheat sheets, coding resources, videos, etc that I want to keep track of &amp; others may find helpful.
 
-## Pyspark <a name="pyspark"></a>
+## Pyspark <a name="pyspark"></a> :snake:
 
 ### Basic PySpark Operations <a name="pyspark1"></a>
 [PySpark_RDD_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294448/PySpark_RDD_Cheat_Sheet.pdf)
@@ -49,8 +49,44 @@ Repartition your DataFrames to optimize performance when dealing with large data
     # Repartition the DataFrame based on a column:
     df = df.repartition("column_name")
 ```
+
 ***
-## SQL <a name="sql"></a>
+
+## Python <a name="python"></a> :snake:
+
+<b>Cheat Sheets</b>
+
+[python-cheat-sheet.pdf](https://github.com/user-attachments/files/18294457/python-cheat-sheet.pdf)
+
+Source: https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners
+
+[Numpy_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294463/Numpy_Cheat_Sheet.pdf)
+
+Source: https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
+
+[Pandas_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294466/Pandas_Cheat_Sheet.pdf)
+
+Source: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python
+
+[Data_Wrangling_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294469/Data_Wrangling_Cheat_Sheet.pdf)
+
+Source: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-in-python
+
+[Cheat-Importing Data.pdf](https://github.com/user-attachments/files/18294477/Cheat-Importing.Data.pdf)
+
+[Cheat-Jupyiter Notebooks.pdf](https://github.com/user-attachments/files/18294478/Cheat-Jupyiter.Notebooks.pdf)
+
+[Cheat-Pandas Basics.pdf](https://github.com/user-attachments/files/18294481/Cheat-Pandas.Basics.pdf)
+
+[Python-Cheat-Sheet-for-Scikit-learn-Edureka.pdf](https://github.com/user-attachments/files/18294497/Python-Cheat-Sheet-for-Scikit-learn-Edureka.pdf)
+
+[scikit_learn_cheat.pdf](https://github.com/user-attachments/files/18294504/scikit_learn_cheat.pdf)
+
+[Sklearn-cheat-sheet.pdf](https://github.com/user-attachments/files/18294508/Sklearn-cheat-sheet.pdf)
+
+***
+
+## SQL <a name="sql"></a> :scroll:
 
 SQL Best Practices Cheat Sheet
 Source: https://aeshantechhub.co.uk/databricks-dbutils-cheat-sheet-and-pyspark-amp-sql-best-practice-cheat-sheet/
@@ -101,41 +137,7 @@ Using SELECT * can lead to unnecessary data transfer and slow performance, espec
 
 ***
 
-## Python <a name="python"></a>
-
-<b>Cheat Sheets</b>
-
-[python-cheat-sheet.pdf](https://github.com/user-attachments/files/18294457/python-cheat-sheet.pdf)
-
-Source: https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners
-
-[Numpy_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294463/Numpy_Cheat_Sheet.pdf)
-
-Source: https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
-
-[Pandas_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294466/Pandas_Cheat_Sheet.pdf)
-
-Source: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python
-
-[Data_Wrangling_Cheat_Sheet.pdf](https://github.com/user-attachments/files/18294469/Data_Wrangling_Cheat_Sheet.pdf)
-
-Source: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-in-python
-
-[Cheat-Importing Data.pdf](https://github.com/user-attachments/files/18294477/Cheat-Importing.Data.pdf)
-
-[Cheat-Jupyiter Notebooks.pdf](https://github.com/user-attachments/files/18294478/Cheat-Jupyiter.Notebooks.pdf)
-
-[Cheat-Pandas Basics.pdf](https://github.com/user-attachments/files/18294481/Cheat-Pandas.Basics.pdf)
-
-[Python-Cheat-Sheet-for-Scikit-learn-Edureka.pdf](https://github.com/user-attachments/files/18294497/Python-Cheat-Sheet-for-Scikit-learn-Edureka.pdf)
-
-[scikit_learn_cheat.pdf](https://github.com/user-attachments/files/18294504/scikit_learn_cheat.pdf)
-
-[Sklearn-cheat-sheet.pdf](https://github.com/user-attachments/files/18294508/Sklearn-cheat-sheet.pdf)
-
-***
-
-## Markdown <a name="markdown"></a>
+## Markdown <a name="markdown"></a> :blue_book:
 
 <b>Complete formatting cheat sheet:</b>
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
@@ -243,3 +245,9 @@ This is a sub paragraph, formatted in heading 3 style
 ## Another paragraph <a name="paragraph2"></a>
 The second paragraph text
 ```
+
+### Emojis <a name="markdownsub5"></a>
+
+See full list here :smile::
+
+https://gist.github.com/rxaviers/7360908
