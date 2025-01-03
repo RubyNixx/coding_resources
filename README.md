@@ -252,3 +252,17 @@ The second paragraph text
 See full list here :smile::
 
 https://gist.github.com/rxaviers/7360908
+
+### Create a checklist <a name="markdownsub6"></a>
+
+To create a task list, preface list items with a hyphen and space followed by [ ]. To mark a task as complete, use [x].
+
+Source: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists#creating-task-lists
+
+```markdown
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+```
+
+
