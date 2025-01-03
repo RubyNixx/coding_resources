@@ -10,6 +10,8 @@
    3. [Highlighting Syntax](#markdownsub3)
    4. [Creating Sections](#markdownsub4)
    5. [Emojis](#markdownsub5)
+   6. [Checklists](#markdownsub6)
+   7. [Collapsed Sections](#markdownsub7)
 
 ## Coding Resources sorted by coding language <a name="introduction"></a>
 
@@ -265,4 +267,42 @@ Source: https://docs.github.com/en/get-started/writing-on-github/working-with-ad
 - [ ] Add delight to the experience when all tasks are complete :tada:
 ```
 
+### Create a collapsed section <a name="markdownsub7"></a>
+
+Markdown code:
+````markdown
+<details>
+
+<summary>This is a collapsed section</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```python
+   print("Hello World")
+```
+
+</details>
+````
+
+Preview how it looks:
+
+<details>
+
+<summary>This is a collapsed section</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```python
+   print("Hello World")
+```
+
+</details>
 
