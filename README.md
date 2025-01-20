@@ -78,6 +78,27 @@ example_df = spark.createDataFrame(example_df)
 .join(df1, fn.col("Code") == fn.col("Der_Code"), how="left")
 ```
 
+<b>See the df in different ways</b>
+
+```python
+# Prints the columns & types
+df.printSchema()
+
+# Prints list of columns in a paragraph format
+print(df.columns)
+
+#Prints disinct values in a given column
+
+
+```
+
+<b>Drop columns</b>
+
+```python
+df = df.drop("column1", "column2")
+```
+
+
 ***
 
 ## Python <a name="python"></a> :snake:
