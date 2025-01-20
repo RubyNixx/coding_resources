@@ -53,6 +53,31 @@ Repartition your DataFrames to optimize performance when dealing with large data
     df = df.repartition("column_name")
 ```
 
+<b>Check if your df is pandas or pyspark</b>
+
+```python
+print(type(example_df))
+
+```
+
+<b>Convert pandas to pyspark df</b>
+
+```python
+from pyspark.sql import SparkSession
+
+# Initialize Spark session if not already done
+spark = SparkSession.builder.getOrCreate()
+
+# Convert Pandas DataFrames to PySpark
+example_df = spark.createDataFrame(example_df)
+```
+
+<b>Joins</b>
+
+```python
+.join(df1, fn.col("Code") == fn.col("Der_Code"), how="left")
+```
+
 ***
 
 ## Python <a name="python"></a> :snake:
