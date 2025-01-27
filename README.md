@@ -109,9 +109,17 @@ List of built-in functions:
 [w3schools list of functions](https://www.w3schools.com/python/ref_list_append.asp)
 
 Specific functions:
+
 [Value Counts](https://www.kaggle.com/code/parulpandey/five-ways-to-use-value-counts)
 
+Pandas library doc:
+
 [Pandas documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html)
+
+Some standard data investigation code:
+https://medium.com/analytics-vidhya/statistical-analysis-in-python-using-pandas-27c6a4209de2
+
+
 
 <b>Cheat Sheets</b>
 
