@@ -105,7 +105,13 @@ df = df.drop("column1", "column2")
 
 List of built-in functions:
 [Beginner friendly build-in function list](https://www.programiz.com/python-programming/methods/built-in/abs)
+
 [w3schools list of functions](https://www.w3schools.com/python/ref_list_append.asp)
+
+Specific functions:
+[Value Counts](https://www.kaggle.com/code/parulpandey/five-ways-to-use-value-counts)
+
+[Pandas documentation](https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html)
 
 <b>Cheat Sheets</b>
 
