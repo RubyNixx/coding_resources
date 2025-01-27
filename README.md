@@ -103,6 +103,10 @@ df = df.drop("column1", "column2")
 
 ## Python <a name="python"></a> :snake:
 
+List of built-in functions:
+https://docs.python.org/3/library/functions.html
+
+
 <b>Cheat Sheets</b>
 
 [python-cheat-sheet.pdf](https://github.com/user-attachments/files/18294457/python-cheat-sheet.pdf)
