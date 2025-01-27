@@ -105,7 +105,7 @@ df = df.drop("column1", "column2")
 
 List of built-in functions:
 [Beginner friendly build-in function list](https://www.programiz.com/python-programming/methods/built-in/abs)
-
+[w3schools list of functions](https://www.w3schools.com/python/ref_list_append.asp)
 
 <b>Cheat Sheets</b>
 
