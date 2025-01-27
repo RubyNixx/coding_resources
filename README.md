@@ -104,7 +104,7 @@ df = df.drop("column1", "column2")
 ## Python <a name="python"></a> :snake:
 
 List of built-in functions:
-https://docs.python.org/3/library/functions.html
+[Beginner friendly build-in function list](https://www.programiz.com/python-programming/methods/built-in/abs)
 
 
 <b>Cheat Sheets</b>
