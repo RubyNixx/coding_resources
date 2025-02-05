@@ -155,6 +155,9 @@ Source: https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-data-wrangling-i
 
 ## SQL <a name="sql"></a> :scroll:
 
+![sql_cheat_sheet](https://github.com/user-attachments/assets/0d23e459-b4d5-4b84-a2f3-aad771cc3b7a)
+
+
 SQL Best Practices Cheat Sheet
 Source: https://aeshantechhub.co.uk/databricks-dbutils-cheat-sheet-and-pyspark-amp-sql-best-practice-cheat-sheet/
 
